@@ -17,3 +17,6 @@ Creating a new branch is quick and simple.
 merge without fast forward.
 add 1 line.
 >>>>>>> dev
+
+
+add one line again.
