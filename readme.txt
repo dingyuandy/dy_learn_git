@@ -4,3 +4,4 @@ Git is good.
 "Git diff" use.
 Creating a new branch is quick.
 merge without fast forward.
+add 1 line.
