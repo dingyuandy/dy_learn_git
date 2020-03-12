@@ -3,3 +3,4 @@ Git is free software.
 Git is good.
 "Git diff" use.
 Creating a new branch is quick.
+merge without fast forward.
